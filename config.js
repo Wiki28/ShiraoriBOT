@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner  = ['6281351047727', '380942618992'] // letakkan nomor kalian disini
+global.owner  = ['6285338324402', '380942618992'] // letakkan nomor kalian disini
 global.mods  = JSON.parse(fs.readFileSync('./src/moderator.json')) // orang terpercaya?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -32,13 +32,13 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'SHIRAORI️BOT'
+global.packname = 'Bot W'
 global.author = 'ilman'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu..*_'
 global.eror = '*_Server Eror_*'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.tle = 'https://telegra.ph/file/ecb8f7d2c12d075fc4729.jpg',
+global.tle = 'https://telegra.ph/file/de9a248b7ac5e34c2a98b.jpg',
 
 global.multiplier = 69 // Semakin tinggi, semakin sulit naik level
 
